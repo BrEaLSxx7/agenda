@@ -1,0 +1,366 @@
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023721.200.html
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023710.400.html
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023701.200.html
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023456.200.html
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023314.200.html
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023204.200.html
+
+###
+
+POST http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023154.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023106.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T023032.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022523.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022428.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022408.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022319.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022255.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022113.200.html
+
+###
+
+GET http://localhost:7000/usuarios
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022101.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T022029.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T021954.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T021948.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T021914.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T014945.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T014911.200.html
+
+###
+
+PATCH http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013859.200.html
+
+###
+
+OPTIONS http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013853.200.html
+
+###
+
+HEAD http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+PUT http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013834.200.html
+
+###
+
+DELETE http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013825.200.html
+
+###
+
+DELETE http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013738.200.html
+
+###
+
+DELETE http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013437.200.html
+
+###
+
+DELETE http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013436.200.html
+
+###
+
+PUT http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T013426.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T012751.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T012741.200.html
+
+###
+
+GET http://localhost:7000/usuarios?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-23T012702.200.html
+
+###
+
