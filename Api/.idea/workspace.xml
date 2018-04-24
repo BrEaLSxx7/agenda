@@ -170,7 +170,7 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="GenericSQL" />
     <property name="javascript.nodejs.core.library.configured.version" value="9.3.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../plataforma-emprendimiento" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../plataforma-emprendimiento/public/index.html" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -640,12 +640,12 @@
       <workItem from="1524369481234" duration="14213000" />
       <workItem from="1524489829333" duration="21568000" />
       <workItem from="1524528992831" duration="135000" />
-      <workItem from="1524574264994" duration="4620000" />
+      <workItem from="1524574264994" duration="6060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44943000" />
+    <option name="totallyTimeSpent" value="46383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1026" height="721" extended-state="6" />
@@ -873,6 +873,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="989">
           <caret line="42" column="30" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../plataforma-emprendimiento/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
