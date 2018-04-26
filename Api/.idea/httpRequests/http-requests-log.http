@@ -1,3 +1,78 @@
+GET http://localhost:7000/categories?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T073947.500.html
+
+###
+
+GET http://localhost:7000/categories?id=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T073921.500.html
+
+###
+
+GET http://localhost:7000/categories?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T073908.500.html
+
+###
+
+GET http://localhost:7000/categories?id=1
+Content-Type: application/json
+
+<> 2018-04-25T073824.500.html
+
+###
+
+GET http://localhost:7000/categoies?id=1
+Content-Type: application/json
+
+<> 2018-04-25T073811.404.html
+
+###
+
+GET http://localhost:7000/categoies?id=1
+
+<> 2018-04-25T073750.404.html
+
+###
+
+GET http://localhost:7000/components
+
+<> 2018-04-25T044857.200.json
+
+###
+
+GET http://localhost:7000/components?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T044651.500.html
+
+###
+
+GET http://localhost:7000/components?id=name
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-04-25T042910.200.json
+
+###
+
+GET http://localhost:7000/components?id=name
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-25T042832.401.json
+
+###
+
 POST http://localhost:7000/usuarios?id=name
 Accept: */*
 Cache-Control: no-cache
@@ -283,84 +358,6 @@ Accept: */*
 Cache-Control: no-cache
 
 <> 2018-04-23T013853.200.html
-
-###
-
-HEAD http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-###
-
-PUT http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T013834.200.html
-
-###
-
-DELETE http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T013825.200.html
-
-###
-
-DELETE http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T013738.200.html
-
-###
-
-DELETE http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T013437.200.html
-
-###
-
-DELETE http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T013436.200.html
-
-###
-
-PUT http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T013426.200.html
-
-###
-
-GET http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T012751.200.html
-
-###
-
-GET http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T012741.200.html
-
-###
-
-GET http://localhost:7000/usuarios?id=1
-Accept: */*
-Cache-Control: no-cache
-
-<> 2018-04-23T012702.200.html
 
 ###
 

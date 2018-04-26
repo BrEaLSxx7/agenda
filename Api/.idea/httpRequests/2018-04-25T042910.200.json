@@ -1,0 +1,22 @@
+{
+  "data": [
+	{
+	  "com_id": 1,
+	  "com_name": "ser",
+	  "com_description": "Es un programa que busca promover la generaci\u00f3n de ingresos para la poblaci\u00f3n rural, a trav\u00e9s de acciones de formaci\u00f3n para el desarrollo y fortalecimiento de capacidades y competencias, as\u00ed como el acompa\u00f1amiento de las iniciativas productivas rurales orientadas al autoconsumo, los negocios rurales y\/o la creaci\u00f3n empresa",
+	  "com_logo": ".\/..\/..\/static\/ser.png"
+	},
+	{
+	  "com_id": 2,
+	  "com_name": "unidad de emprendimiento",
+	  "com_description": "A lo largo del a\u00f1o, Fondo Emprender del SENA abre varias convocatorias para que los emprendedores colombianos accedan al capital semilla necesario que les permita crear empresas sostenibles. All\u00ed pueden participar ideas de negocio de cualquier sector econ\u00f3mico",
+	  "com_logo": ".\/..\/..\/static\/unidad.png"
+	},
+	{
+	  "com_id": 3,
+	  "com_name": "victimas",
+	  "com_description": "",
+	  "com_logo": ".\/..\/..\/static\/victimas.png"
+	}
+  ]
+}

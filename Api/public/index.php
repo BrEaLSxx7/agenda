@@ -1,6 +1,6 @@
 <?php
 require_once './../libs/frontController.php';
-require_once './../libs/dataSource.php';
+//require_once './../libs/dataSource.php';
 $gestor=fopen('../config/.env', 'r');
 $config=explode('
 ',fread($gestor,filesize("../config/.env")));
